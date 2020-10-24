@@ -1,4 +1,9 @@
 # PhotoViewer-iOS
+
+A Photo Gallery app built using SwiftUI LazyVStack & LazyVGrid.
+
+![Screen Capture1](https://github.com/kenfai/PhotoViewer-iOS/raw/main/PhotoViewerScreen1.gif)
+
 ## iOS 14 SwiftUI Tutorial
 
 ### Techniques
